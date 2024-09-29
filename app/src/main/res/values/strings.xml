@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="tv_forgot">Forgot Password?</string>
+    <string name="btn_name">SIGN IN</string>
+    <string name="tv_acc_info">New to linkedin?Join now</string>
+    <string name="tv_sign_in">Sign In</string>
+    <string name="tv_update">Stay Updated on Professional Work</string>
+</resources>

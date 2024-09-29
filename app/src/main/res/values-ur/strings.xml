@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="et_email">ای میل</string>
+    <string name="et_password">پاس ورڈ</string>
+    <string name="tv_forgot">پاس ورڈ بھول گئے؟</string>
+    <string name="btn_name">سائن ان کریں۔</string>
+    <string name="tv_acc_info">لنکڈ میں نئے ہیں؟ ابھی شامل ہوں۔</string>
+    <string name="tv_sign_in">سائن ان کریں۔</string>
+    <string name="tv_update">پیشہ ورانہ کام پر اپ ڈیٹ رہیں</string>
+</resources>
